@@ -1,0 +1,21 @@
+--- FICHA AUDITORÍA F001 ---
+Identificador de fuente: F001
+Nombre de archivo / Documento: WhatsApp Audio 2026-10-18 at 14.25.07_transcripcio.txt
+Formato: Archivo de texto plano (.txt)
+Técnica de procesamiento: Lectura e inspección directa de texto nativo
+
+Métricas del documento completo:
+Palabras totales en el archivo fuente: 19131 palabras
+Tokens estimados: 25444 tokens
+Porcentaje del archivo F001 respecto al total del expediente: 100.00 %
+
+--- DIGRESIONES Y ASIGNACIÓN ARTICULAR ---
+
+Digresión/Aportación: El documento evidencia la desprotección absoluta de una persona en situación de extrema vulnerabilidad (incapacidad, falta de ingresos, violencia familiar por identidad de género) que se enfrenta al colapso y la falta de respuesta de los servicios de urgencias sociales (CUESB) y sanitarios. Demuestra el daño directo por omisión de auxilio institucional frente a riesgos vitales inmediatos (falta de TAR, alimentación).
+Asignación Normativa: Artículo 2 (Ampliado) y Artículo 16 (Nuevo) — Tipificación de la "Omisión de Auxilio Institucional Agravado" cuando recaiga sobre personas en situación de incapacidad declarada o vulnerabilidad por LGTBI-fobia. Obligatoriedad de asistencia material inmediata y directa a domicilio (suministro de alimentos y medicación crónica) sin derivaciones telefónicas dilatadas.
+
+Digresión/Aportación: Se relata un perjuicio por iatrogenia grave (lesión ocular con clorhexidina) sumado a la negativa de dispensación de medicación antirretroviral vital.
+Asignación Normativa: Artículo 15 (Ampliado) — Consideración como "Falta Muy Grave" la interrupción forzada o la negativa de dispensación de la Terapia Antirretroviral (TAR), estableciendo un régimen de tutela urgente y responsabilidad patrimonial por riesgo vital inminente.
+
+Digresión/Aportación: Situación de asfixia económica por impago de prestaciones durante dos años, utilizado como medio de coacción o daño colateral.
+Asignación Normativa: Artículo 20 (Modificado/Ampliado) — Blindaje de las prestaciones económicas de subsistencia y resolución de emergencia (plazo máximo de 72 horas) para víctimas de acoso institucional o violencia en el entorno familiar.
